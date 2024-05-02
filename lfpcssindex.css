@@ -1,0 +1,116 @@
+a:link{
+color: #ffffff
+}
+a:visited{
+color: #ffffff
+}
+a:hover{
+color: #23a300
+}
+a:active{
+color: #ffffff
+}
+a{
+text-decoration: none;
+font-family: wide latin;
+font-size: 12px;
+letter-spacing: 1px
+}
+a.a:link{
+color: #ffffff
+}
+a.a:visited{
+color: #ffffff
+}
+a.a:hover{
+color: #ffffff
+}
+a.a:active{
+color: #ffffff
+}
+a.a{
+text-decoration: underline;
+font-family: garamond;
+font-size: 17px;
+color: #ffffff
+}
+
+a.footer:link{
+color: #ffffff
+}
+a.footer:visited{
+color: #ffffff
+}
+a.footer:hover{
+color: #ffffff;
+text-decoration: underline
+}
+a.footer:active{
+color: #ffffff
+}
+a.footer{
+font-family: garamond;
+font-size: 12px;
+letter-spacing: 6px;
+margin-top: -15px
+}
+
+
+img.banner{
+margin-top: -8px
+}
+img.body{
+margin-top: 5px;
+margin-bottom: 5px;
+color: #ffffff;
+float: right
+}
+table.main{
+margin-top: 5px;
+background-color: #000000;
+color: #ffffff
+}
+body{
+background-color: #ffffff;
+color: #ffffff;
+}
+ul{
+font-size: 19px
+}
+p{
+font-family: courier new;
+color: #ffffff;
+font-size: 17px
+margin-bottom
+}
+p.a{
+font-family: garamond;
+font-size: 17px;
+color: #ffffff;
+margin-bottom: -5px;
+letter-spacing: 3px
+}
+h2{
+font-family: garamond;
+margin-bottom: 5px;
+margin-top: 5px
+}
+h3{
+font-family: sketchy;
+font-size: 25px;
+margin-bottom: -5px
+}
+h4{
+font-family: sketchy;
+font-size: 17px;
+margin-bottom: -5px;
+margin-right: 50%
+}
+
+h6{
+font-family: garamond;
+font-size: 12px;
+letter-spacing: 6px;
+margin-top: -10px;
+color: #ffffff
+}
